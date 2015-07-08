@@ -1,4 +1,4 @@
 HadoopTest
 ==========
 
-HadoopTest: a Framework for Dependability Testing of Hadoop Systems
+HadoopTest: a Dependability Testing Framework for Hadoop Systems.
